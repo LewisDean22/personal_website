@@ -39,8 +39,8 @@ plugins:
 # remote_theme: pages-themes/minimal
 # remote_theme: minima
 
-plugins:
-  - jekyll-remote-theme
+# plugins:
+#   - jekyll-remote-theme
 
 
 header_pages:
